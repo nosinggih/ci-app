@@ -22,6 +22,11 @@ class Mahasiswa extends CI_Controller {
 		$this->load->view('mahasiswa/index', $data);
 		$this->load->view('templates/footer');
     }
+
+    public function cari()
+    {
+        
+    }
     
     public function tambah()
     {

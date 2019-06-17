@@ -33,11 +33,10 @@
                                 <option value="Teknik Informasi">Teknik Informasi</option>
                                 </select>
                             </div>
-                            <button type="submit" name="tambah" class="btn btn-primary float-right">Tambah Data</button>
+                            <button id="tombol-tambah" type="submit" name="tambah" class="btn btn-primary float-right">Tambah Data</button>
                         </form>
                     </div>
                 </div>
         </div>
     </div>
-
 </div>
